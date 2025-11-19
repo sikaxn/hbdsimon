@@ -10,3 +10,8 @@ https://notisrac.github.io/FileToCArray/
 1. Palette mod 16 bit RRRRRGGGGGGBBBBB(2byte/px)
 2. Data type uint16_t
 3. Resize 240 x 135
+
+# Before flashing
+
+Remove plastic cover, hold boot, press reset once to enter download mode.
+In Tools menu of Arduino IDE, Enable USB CDC On Boot to use Serial print function.
